@@ -10,10 +10,14 @@
 
 🎓 **Developer | Tech Lead | Educator | Mentor**
 
-💡 Building user-centric digital solutions 
+💡 Building user-centric digital solutions
+
 📚 Researching Smart Homes, Multi-Agent Systems, and Conflict Resolution  
+
 👩‍🏫 Teaching professional practice, business intelligence, SQL with flair, data, and dev best practices  
+
 ☁️ Exploring cloud tech, data pipelines, and AI applications
+
 🤝 Always up for collaborating on Dev, Data, or EduTech projects!
 
 ---
