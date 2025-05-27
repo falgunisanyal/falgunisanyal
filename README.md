@@ -12,8 +12,6 @@
 
 💡 Building user-centric digital solutions
 
-📚 Researching Smart Homes, Multi-Agent Systems, and Conflict Resolution  
-
 👩‍🏫 Teaching professional practice, business intelligence, SQL with flair, data, and dev best practices  
 
 ☁️ Exploring cloud tech, data pipelines, and AI applications
